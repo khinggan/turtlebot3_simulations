@@ -11,7 +11,7 @@ Panels:
         - /LaserScan1
         - /DepthCloud1/Auto Size1
       Splitter Ratio: 0.6029411554336548
-    Tree Height: 363
+    Tree Height: 719
   - Class: rviz/Selection
     Name: Selection
   - Class: rviz/Tool Properties
@@ -169,11 +169,11 @@ Visualization Manager:
       Unreliable: false
       Value: false
       Visibility:
+        "": true
         Axes: true
         DepthCloud: true
         Grid: true
         LaserScan: true
-        Marker: true
         Odometry: true
         RobotModel: true
         TF: true
@@ -295,10 +295,10 @@ Visualization Manager:
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Scale: 234.12754821777344
+      Scale: 60.09471130371094
       Target Frame: <Fixed Frame>
-      X: 3.3106448650360107
-      Y: 0.019039416685700417
+      X: 12.057051658630371
+      Y: 0.9152868986129761
     Saved: ~
 Window Geometry:
   Camera:
